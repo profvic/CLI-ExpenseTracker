@@ -1,0 +1,24 @@
+PROJECT NAME: EXPENSE TRACKER
+-------------------------------------------------
+TECH STACK:
+Runtime: python 3.10.8
+Database: SQL (sqlite)
+-------------------------------------------------
+REQUIREMENT:
+Basic SQL
+Basic knowledge of Python and SQL
+Prettytable Module for showing the table in the command-line
+Integrated Editor (Vscode)
+-------------------------------------------------
+IMPORTANT COMMAND:
+pip install prettytable
+-------------------------------------------------
+DESCRIPTION:
+The program name ---Expense Tracker-- manages expenses, it stores expense data on the table created in the SQL database
+it uses real-time date and time to keep track of expenses,
+the program is divided into four sections namely
+-data-entry
+-data-view
+-data-delete
+-exit
+The program has been desgned to run on an infinte loop, it only exits when the program user inputs the exit command.
